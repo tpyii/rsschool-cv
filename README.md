@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tpyii.github.io/rsschool-cv/cv
