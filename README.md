@@ -1,1 +1,1 @@
-https://tpyii.github.io/rsschool-cv/cv
+https://tpyii.github.io/rsschool-cv/
